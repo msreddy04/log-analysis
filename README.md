@@ -1,4 +1,4 @@
-#log_analysis.py
+# Log Analysis
 
 A Python script for analyzing log files.
 
